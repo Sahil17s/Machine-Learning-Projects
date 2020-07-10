@@ -1,1 +1,2 @@
-
+This model predicts the best place to open an Indian Restaurant in Toronto, Canada. Here data is not readily available, it is fetched via scraping web data and parsing HTML code.  
+Foursquare API is used to retrieve data about venues in different neighborhoods of Toronto. And finally Clustering Neighborhoods to predict the best place.
